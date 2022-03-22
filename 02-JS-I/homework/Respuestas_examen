@@ -1,0 +1,15 @@
+VARIABLES
+Sirven para guardar informacion, que se usara mas adelante.
+
+STRINGS
+Es cualquier texto que este entre comillas 'hola'
+
+FUNCIONES (ARGUMENTOS Y RETURN)
+Los argumentos son variables que hay en una funcion 
+'return' es lo que nos va a regresar la funcion 
+
+DECLARACIONES IF
+Son condiciones que dan como respuesta falso o verdadero
+
+VALORES BOOLEANOS
+Son true y false 
