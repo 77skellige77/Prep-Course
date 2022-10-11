@@ -3,7 +3,7 @@
 const { clear } = require("@11ty/eleventy/src/TemplateCache");
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = 'Hola Mundo';
+const nuevaString = 'Hola Mundo Volvi';
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 10; 
